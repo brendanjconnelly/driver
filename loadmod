@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sudo rmmod drv.ko
+sudo insmod drv.ko
